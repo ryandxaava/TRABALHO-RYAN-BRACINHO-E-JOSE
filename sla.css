@@ -1,0 +1,31 @@
+body {
+ 
+    text-align: center;
+  
+  }
+  
+  fieldset{
+    display: inline-block;
+      background-color: rgb(248, 245, 245);/*se apagar deixa transparente*/
+   border: 1px solid rgb(250, 246, 246); /* Adiciona uma borda para visualização */
+    border-radius: 10px; /* Arredonda todos os cantos */
+  
+  margin-top: 115px;
+  padding: 20px;
+  
+  }
+  
+  input {
+    display: block;
+    width: 200px; 
+    margin-left: auto;
+    margin-right: auto;
+  padding: 7px;
+  }
+  h1{
+  margin-top: 100px;
+      color: azure;
+  
+  
+  
+  }
